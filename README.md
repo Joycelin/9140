@@ -37,7 +37,7 @@
 
 ###4.自我學習
 * 關注電子商務與社群行銷相關資訊(例：Smart電子商務網、GA分析相關文章、社群行銷經營)
-* 追蹤[高雄前端社群](https://www.facebook.com/groups/358503154261390/?fref=ts)
+* 追蹤[高雄前端社群](https://www.facebook.com/groups/358503154261390/?fref=ts)、
    [DESIGN plus / 設計+](https://www.facebook.com/groups/designplus.kh/?fref=ts)，關注最新前端技術、介面設計
 * 學習[100 Day UI Challenge](http://www.100daysui.com/)目前平均每周產出一個UI介面
 * 學習Joomla操作
