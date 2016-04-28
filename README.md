@@ -36,6 +36,6 @@
 * 追蹤[高雄前端社群](https://www.facebook.com/groups/358503154261390/?fref=ts)
    [DESIGN plus / 設計+](https://www.facebook.com/groups/designplus.kh/?fref=ts)，關注最新前端技術、介面設計
 * 學習[100 Day UI Challenge](http://www.100daysui.com/)目前平均每周產出一個UI介面
-* 學習Joomla操作()
+* 學習Joomla操作
 * HTML/CSS、Bootstrap應用(學習路徑：codeschool、codecademy、廖洧杰老師大學課程旁聽)
 * 持續充實英文能力，5/29應考TOEIC。
