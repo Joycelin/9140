@@ -11,7 +11,7 @@
 ####[易康網路行銷](http://www.matchbank.com.tw/landing.html?gclid=CJD-1I_WrMwCFUYJvAod6ZUJ7w)(2014-2015) 行銷企劃助理
 
 ##3.專業技能
-###3-1.FB廣告受眾分析
+###3-1.Facebook廣告
 * 分別將code碼埋到各個頁面以便精準判斷轉換
 * 建議客戶對TA條件由廣至精準，再由精準優化廣告文案，尋找文案方向
 * AB Testing週期為至少一周
